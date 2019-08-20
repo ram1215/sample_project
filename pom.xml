@@ -1,7 +1,7 @@
 <project>
   <modelVersion>4.0.0</modelVersion>
-  <groupId>@groupId@</groupId>
-  <artifactId>@artifactId@</artifactId>
+  <groupId>sample_project</groupId>
+  <artifactId>sample_project</artifactId>
   <version>@version@</version>
   <packaging>jar</packaging>
 
